@@ -273,3 +273,16 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.social {
+   text-align: center;
+   }
+
+   .text2{
+    margin: 1rem;
+    color: #4d524f;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
